@@ -10,8 +10,8 @@ Description: An R package for supply chain optimization and forecasting.
 Version: 1.0.1
 Authors@R: c(person("Dario", "Nardiello", email = "darionardiello.scmaster@gmail.com", role = c("aut", "cre", "fnd")))
 License: MIT + file LICENSE
-URL: https://github.com/DN1321/scmaster
-BugReports: https://github.com/DN1321/scmaster/issues
+URL: https://github.com/danardiello/scmaster
+BugReports: https://github.com/danardiello/scmaster/issues
 Depends: R (>= 4.0)
 Encoding: UTF-8
 Imports: lpSolve

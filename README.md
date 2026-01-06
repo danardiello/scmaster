@@ -12,7 +12,7 @@
 You can install this package using the following command:
 
 ```R
-devtools::install_github("https://github.com/DN1321/scmaster.git")
+devtools::install_github("https://github.com/danardiello/scmaster.git")
 ```
 
 ## Functions
